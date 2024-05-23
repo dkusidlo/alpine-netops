@@ -1,4 +1,4 @@
-FROM alpine:3.19.1
+FROM alpine:3.20.0
 
 # Define ARG for each package version
 ARG BIND_TOOLS_VERSION=9.18.24-r1
